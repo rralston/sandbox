@@ -1,3 +1,7 @@
+<script type='text/x-handlebars' data-template-name='application'>
 <h2 id='title'>Welcome to Ember.js</h2>
-
 {{outlet}}
+
+</script>
+{{#link-to 'about' tagName='li'}}About{{/link-to}}
+{{#link-to 'contact' tagName='li'}}Contact{{/link-to}}
