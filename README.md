@@ -23,3 +23,10 @@ This README outlines the details of collaborating on this Ember application.
 * `ember build`
 
 For more information on using ember-cli, visit [http://iamstef.net/ember-cli/](http://iamstef.net/ember-cli/).
+
+## To Do 
+
+1. Build Application Menu Structure
+2. Ember Data
+3. CRUD 
+4. External API Integration 
