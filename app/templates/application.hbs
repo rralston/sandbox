@@ -1,10 +1,14 @@
 <h2 id='title'>Welcome to Ember.JS Sandbox</h2>
-
+<ul class="nav nav-pills">
 {{#link-to 'application' tagName='li'}}Home{{/link-to}}
 {{#link-to 'about' tagName='li'}}About{{/link-to}}
 {{#link-to 'contact' tagName='li'}}Contact{{/link-to}}
-
-
+</ul>
+<ul class="nav nav-pills">
+  <li class="active"><a href="#">Home</a></li>
+  <li><a href="#">Profile</a></li>
+  <li><a href="#">Messages</a></li>
+</ul>
 {{outlet}}
 
 
