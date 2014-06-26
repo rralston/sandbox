@@ -26,8 +26,8 @@ For more information on using ember-cli, visit [http://iamstef.net/ember-cli/](h
 
 ## To Do 
 
-1. Build Application Menu Structure
-2. Install Bootstrap
+1. Build Application Menu Structure - Complete
+2. Install Bootstrap - Complete
 3. Ember Data
 4. CRUD 
 5. External API Integration 
