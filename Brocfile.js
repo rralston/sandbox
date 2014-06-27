@@ -9,7 +9,7 @@ var app = new EmberApp();
 app.import('vendor/bootstrap/dist/js/bootstrap.js');
 app.import('vendor/bootstrap/dist/css/bootstrap.css');
 app.import('vendor/bootstrap/dist/css/bootstrap-theme.css');
-
+app.import('vendor/JavaScript-MD5/js/md5.js');
 //
 // If you need to use different assets in different
 // environments, specify an object as the first parameter. That
